@@ -8,6 +8,7 @@ steps I have used in :
 5) used powerBI tool to enhance the distribution of data 
 working of dashboard :
 https://github.com/anuj7860/PRODIGY_DS_2/assets/138881508/a26d8d37-a7d5-4515-b5c5-c6e6d1e260f1
+
 snapshot shot of dashboard :
 ![prodigytask1](https://github.com/anuj7860/PRODIGY_DS_2/assets/138881508/4258ac70-a294-474c-88a4-fad5972d17fd)
 
