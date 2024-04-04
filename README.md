@@ -3,9 +3,10 @@ Prodigy jnfotech internship task 2 performing data cleaning and eda to identify 
 steps I have used in : 
 1) load necessary packages like seaborn, matplotlib, numpy and pandas
 2) data loading step to add csv file to the notebook
-3) data cleaning via removing null values
-4) use an appropriate data visualization graph to investigate the trends and patterns
-5) used powerBI tool to enhance the distribution of data 
+3) data set is https://www.kaggle.com/competitions/titanic
+4) data cleaning via removing null values
+5) use an appropriate data visualization graph to investigate the trends and patterns
+6) used powerBI tool to enhance the distribution of data 
 working of dashboard :
 https://github.com/anuj7860/PRODIGY_DS_2/assets/138881508/a26d8d37-a7d5-4515-b5c5-c6e6d1e260f1
 
