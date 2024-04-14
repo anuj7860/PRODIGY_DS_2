@@ -1,5 +1,5 @@
 # PRODIGY_DS_2
-Prodigy jnfotech internship task 2 performing data cleaning and eda to identify pattern and trends using Titanic data set
+Prodigy infotech internship task 2 performing data cleaning and eda to identify pattern and trends using Titanic data set
 steps I have used in : 
 1) load necessary packages like seaborn, matplotlib, numpy and pandas
 2) data loading step to add csv file to the notebook
